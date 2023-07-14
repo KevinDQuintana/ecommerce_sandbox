@@ -1,0 +1,14 @@
+* {
+	background-color: #10002B;
+	font-family: Roboto, sans-serif;
+	/* font-family: monospace; */
+	margin: 0;
+	list-style: none;
+	/* outline: 1px solid red; */
+	padding: 0;
+	text-decoration: none;
+}
+
+img {
+	max-width: 100%;
+}

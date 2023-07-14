@@ -1,0 +1,12 @@
+.header__button {
+	background-color: #10002b;
+	color: #ffffff;
+	padding: 1rem;
+	text-transform: uppercase;
+	border-radius: 5px;
+	font-weight: bold;
+}
+
+.header__button:hover {
+	background-color: #5a189a;
+}
